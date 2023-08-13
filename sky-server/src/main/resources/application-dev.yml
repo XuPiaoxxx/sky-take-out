@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tAySTFdEDrxzUxyeM2d
     access-key-secret: kkkkkkkkkk
     bucket-name: xupiao-sky
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
